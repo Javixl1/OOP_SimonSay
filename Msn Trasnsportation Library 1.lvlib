@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Abstract.lvclass" Type="LVClass" URL="../Abstract/Abstract.lvclass"/>
-	<Item Name="Message.lvclass" Type="LVClass" URL="../Message.lvclass"/>
+	<Item Name="Close.lvclass" Type="LVClass" URL="../Class 2/Close.lvclass"/>
+	<Item Name="ShiftR.lvclass" Type="LVClass" URL="../ShiftR/ShiftR.lvclass"/>
 	<Item Name="Transporter.lvclass" Type="LVClass" URL="../Transporter/Transporter.lvclass"/>
 </Library>
