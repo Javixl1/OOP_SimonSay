@@ -47,7 +47,12 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Message.lvclass" Type="LVClass" URL="../Message.lvclass"/>
+			<Item Name="Blue Buton Indicator.ctl" Type="VI" URL="../Control/Blue Buton Indicator.ctl"/>
+			<Item Name="Green Buton Indicator.ctl" Type="VI" URL="../Control/Green Buton Indicator.ctl"/>
+			<Item Name="Orange Buton Indicator.ctl" Type="VI" URL="../Control/Orange Buton Indicator.ctl"/>
+			<Item Name="Purple ButonCtlr.ctl" Type="VI" URL="../Control/Purple ButonCtlr.ctl"/>
+			<Item Name="Red Buton Indicator.ctl" Type="VI" URL="../Control/Red Buton Indicator.ctl"/>
+			<Item Name="Start.ctl" Type="VI" URL="../Control/Start.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
